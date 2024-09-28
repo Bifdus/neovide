@@ -1,0 +1,22 @@
+fork = false
+frame = "none"
+idle = true
+maximized = false
+no-multigrid = false
+theme = 'auto'
+srgb = false
+tabs = false
+vsync = false
+wsl = false
+
+
+[font]
+size = 14.0
+style = 'SemiBold'
+hinting = 'full'
+edging = 'antialias'
+
+[font.normal]
+family = 'FiraCode Nerd Font Mono'
+style = 'Medium'
+
